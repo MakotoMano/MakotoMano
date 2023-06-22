@@ -1,6 +1,6 @@
 ## Olá! Me chamo Makoto 🙌 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSMTFLMStsrsQbNnsjKDjSScgcVHdSDLbxkNzSrkKtSxNJHFPrwHKBGzKJJWnNfvxQWzSgrR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/makotomano)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makotomano/)<br>
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MakotoMano&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia a dia
