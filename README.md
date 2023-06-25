@@ -14,7 +14,7 @@
 </div><br>
 
 <div>
-  <p>Olá prazer, meu nome é Diogo Makoto Mano, tenho 28 anos e sou apaixonado por tecnologia. <br> Atualmente, estou cursando Sistema de Informação na <a href="https://www.fiap.com.br/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1aaoW7iHHIq_UfYeD13Oq2pCWGG7OAibaLyh6O9-A-6u2i_UhrLDfBoC-HsQAvD_BwE">FIAP</a>, e me especializando em Java, HTML, CSS e Git. Sou uma pessoa ágil  e de fácil compreensão, sempre disposta a aprender algo novo, seja uma nova linguagem ou um novo framework. Estou sempre pronto para superar qualquer desafio! :)
+  <p>Olá! Prazer!! Meu nome é Diogo Makoto Mano, tenho 28 anos e sou apaixonado por tecnologia. <br> Atualmente, estou cursando Sistema de Informação na <a href="https://www.fiap.com.br/?gclid=CjwKCAjw8-OhBhB5EiwADyoY1aaoW7iHHIq_UfYeD13Oq2pCWGG7OAibaLyh6O9-A-6u2i_UhrLDfBoC-HsQAvD_BwE">FIAP</a>, e me especializando em Java, HTML, CSS e Git. Sou uma pessoa ágil  e de fácil compreensão, sempre disposta a aprender algo novo, seja uma nova linguagem ou um novo framework. Estou sempre pronto para superar qualquer desafio! :)
     
 <p>“Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” <br>– Rafael Lain</p>
 </div>
